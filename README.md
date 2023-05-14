@@ -1,5 +1,5 @@
 # PROJETO APLICATIVO FINANCEIRO
-    Controle de despesas mensais, reponsiva e funcional
+    Controle de despesas mensais, reponsiva e funcional.
 
 ## OBJETIVO
 
