@@ -3,7 +3,7 @@
 
 ## OBJETIVO
 
-`Obter os dados de despesas e receitas com autenticação e Login de usuario`
+`Obter os dados de despesas e receitas com autenticação e Login de usuario.`
 
 Um Crud de dados de despesas e receitas, de forma simples e objetiva, 
 
